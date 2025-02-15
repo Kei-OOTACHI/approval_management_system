@@ -1,0 +1,2 @@
+# approval_management_system
+稟議の提出管理・審議状態管理SSのコンテナバインドスクリプト
